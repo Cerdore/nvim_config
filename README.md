@@ -29,6 +29,12 @@ You can also just clone this repository directly if you do not want to track you
 git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim/lua/user
 ```
 
+#### Custom settings
+
+```shell
+git clone https://github.com/Cerdore/nvim_config ~/.config/nvim/lua/user
+```
+
 #### Start Neovim
 
 ```shell
